@@ -1,0 +1,40 @@
+DL nyo muna tong python 3.10 
+https://www.python.org/downloads/release/python-3100/
+
+Tapos i run nyo lahat to sa CMD isa isa lang,  click nyo Win+r tapos type cmd
+pip install opencv-python opencv-contrib-python mediapipe numpy
+
+pip install dlib
+
+pip install face-recognition
+
+pip install tensorflow torch torchvision
+
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+pip install pandas matplotlib tqdm scipy seaborn
+
+pip install cmake
+
+
+
+eto naman sa i run nyo sa TERMINAL sa vscode
+python -m venv yolov8-env  
+
+pip install ultralytics opencv-python torch torchvision numpy matplotlib pandas
+
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+sa vscode ctrl + p tapos select interpreter tapos yung recommended na 3.10 na python
+python 3.10 
+
+
+
+pip install cmake
+pip install opencv-python
+pip install mediapipe
+pip install ultralytics
+pip install dlib
+pip install face-recognition
+pip install numpy
+pip install torch torchvision torchaudio
